@@ -21,4 +21,4 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/stefanbogdanov1c/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stefanbogdanov2c&show_icons=true&locale=en" alt="stefanbogdanov2c" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanbogdanov2c&" alt="stefanbogdanov2c" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanbogdanov2c" alt="stefanbogdanov2c" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanbogdanov2c&theme=monokai  " alt="stefanbogdanov2c" /></a></p>
