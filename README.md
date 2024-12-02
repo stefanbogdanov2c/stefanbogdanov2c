@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanbogdanov2c&theme=monokai" alt="stefanbogdanov2c" /></p>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/stefanbogdanov1c/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a66c2" alt="linkedin" /></a></p>
+<p><a href="https://linkedin.com/in/stefanbogdanov1c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanbogdanov1c" height="30" width="40" /></a></p>
