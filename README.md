@@ -27,6 +27,12 @@
 
 ### 💻 Some Projects I've Worked On:
 
+- **[Realmsted](https://github.com/stefanbogdanov1c/realmstead)**  
+  A full-stack application built with the **MEAN stack**. Realmsted is a Wikipedia-like project designed as a developing ground for a medieval fantasy world I aim to write about.
+
+- **[Mokri Lug: Kingdoms at War](https://github.com/stefanbogdanov1c/Mokri-Lug-Kingdoms-at-War)**  
+  A **university collaboration project**, a chess-clone game with added lore and UI elements. I took the lead on this project, managing development and gameplay mechanics.
+
 - **[Pentiment Live Wallpaper](https://github.com/stefanbogdanov2c/pentiment-live-wallpaper)**  
   A live wallpaper inspired by the clock from the game *Pentiment*, designed for use with Lively Wallpaper. Built with **HTML**, **CSS**, and **JavaScript** using **parallax.js** for a dynamic effect.
 
